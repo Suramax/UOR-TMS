@@ -1,0 +1,2 @@
+# UOR-TMS
+University transport management system basically focused on helping  our staff to reserve a vehicle easily and effectively for their operational  factors and increasing community engagement and driving revenue.  UOR/TMS makes this possible by linking the latest technologies with a  dedicated focus to help staff to grow their operations and meet evolving  university community transit needs.
